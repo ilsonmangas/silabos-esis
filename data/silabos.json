@@ -182,11 +182,11 @@
   {
     "id": 21,
     "ciclo": "IV",
-    "codigo": "19.04521",
+    "codigo": "19.04421",
     "curso": "ANÁLISIS DE SISTEMAS",
     "creditos": 4.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.04421-AN%C3%81LISIS%20DE%20SISTEMAS.pdf"
   },
   {
     "id": 22,
