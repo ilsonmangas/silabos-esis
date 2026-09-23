@@ -6,7 +6,7 @@
     "curso": "MATEMÁTICA BÁSICA",
     "creditos": 4.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.01501-MATEMATICA-BASICA.pdf"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "curso": "COMUNICACIÓN Y REDACCIÓN",
     "creditos": 3.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.01502-COMUNICACION-Y-REDACCION.pdf"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "curso": "INTRODUCCIÓN A LAS HERRAMIENTAS DIGITALES",
     "creditos": 3.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.01503-INTRODUCCION-A-LAS-HERRAMIENTAS-DIGITALES.pdf"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "curso": "QUÍMICA",
     "creditos": 3.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.01504-QUIMICA.pdf"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "curso": "EDUCACIÓN INCLUSIVA",
     "creditos": 2.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.01505-EDUCACION-INCLUSIVA.pdf"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "curso": "FUNDAMENTOS DE PROGRAMACIÓN",
     "creditos": 4.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.01506-FUNDAMENTOS-DE-PROGRAMACION.pdf"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "curso": "PROGRAMACIÓN GRÁFICA",
     "creditos": 4.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.01507-PROGRAMACION-GRAFICA.pdf"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "curso": "ECOLOGÍA Y AMBIENTE",
     "creditos": 3.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.02508-ECOLOGIA-Y-AMBIENTE.pdf"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "curso": "REALIDAD NACIONAL",
     "creditos": 3.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.02509-REALIDAD-NACIONAL.pdf"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "curso": "INTRODUCCIÓN A LA FILOSOFÍA",
     "creditos": 3.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.02510-INTRODUCCION-A-LA-FILOSOFIA.pdf"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "curso": "FÍSICA",
     "creditos": 3.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.02511-FISICA.pdf"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "curso": "METODOLOGÍA DEL TRABAJO UNIVERSITARIO",
     "creditos": 3.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.02512-METODOLOGIA-DEL-TRABAJO-UNIVERSITARIO.pdf"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "curso": "MATEMÁTICA DISCRETA",
     "creditos": 4.0,
     "requisito": "MATEMÁTICA BÁSICA",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.02513-MATEMATICA-DISCRETA.pdf"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "curso": "PROGRAMACIÓN AVANZADA",
     "creditos": 4.0,
     "requisito": "FUNDAMENTOS DE PROGRAMACIÓN",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.02514-PROGRAMACION-AVANZADA.pdf"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "curso": "TEORÍA GENERAL DE SISTEMAS",
     "creditos": 2.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.03515-TEORIA-GENERAL-DE-SISTEMAS.pdf"
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "curso": "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS",
     "creditos": 4.0,
     "requisito": "FÍSICA",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.03516-SISTEMAS-ELECTRICOS-Y-ELECTRONICOS.pdf"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "curso": "ESTRUCTURA DE DATOS",
     "creditos": 4.0,
     "requisito": "PROGRAMACIÓN AVANZADA",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.03517-ESTRUCTURA-DE-DATOS.pdf"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "curso": "ALGORITMOS Y PROGRAMACIÓN PARALELA",
     "creditos": 4.0,
     "requisito": "PROGRAMACIÓN AVANZADA",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.03518-ALGORITMOS-Y-PROGRAMACION-PARALELA.pdf"
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "curso": "MATEMÁTICA I",
     "creditos": 4.0,
     "requisito": "MATEMÁTICA BÁSICA",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.03519-MATEMATICA-I.pdf"
   },
   {
     "id": 20,
@@ -177,7 +177,7 @@
     "curso": "ESTADÍSTICA Y PROBABILIDADES",
     "creditos": 4.0,
     "requisito": "MATEMÁTICA BÁSICA",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.03520-ESTADISTICA-Y-PROBABILIDADES.pdf"
   },
   {
     "id": 21,
@@ -186,7 +186,7 @@
     "curso": "ANÁLISIS DE SISTEMAS",
     "creditos": 4.0,
     "requisito": "Ninguno",
-    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.04421-AN%C3%81LISIS%20DE%20SISTEMAS.pdf"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.04421-ANALISIS-DE-SISTEMAS.pdf"
   },
   {
     "id": 22,
@@ -195,7 +195,7 @@
     "curso": "SISTEMAS DIGITALES",
     "creditos": 4.0,
     "requisito": "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.04522-SISTEMAS-DIGITALES.pdf"
   },
   {
     "id": 23,
@@ -204,7 +204,7 @@
     "curso": "MODELADO COMPUTACIONAL PARA INGENIERÍA",
     "creditos": 4.0,
     "requisito": "MATEMÁTICA DISCRETA",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.04523-MODELADO-COMPUTACIONAL-PARA-INGENIERIA.pdf"
   },
   {
     "id": 24,
@@ -213,7 +213,7 @@
     "curso": "CONTABILIDAD, COSTOS Y PRESUPUESTOS",
     "creditos": 3.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.04524-CONTABILIDAD-COSTOS-Y-PRESUPUESTOS.pdf"
   },
   {
     "id": 25,
@@ -222,7 +222,7 @@
     "curso": "MATEMÁTICA II",
     "creditos": 4.0,
     "requisito": "MATEMÁTICA I",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.04525-MATEMATICA-II.pdf"
   },
   {
     "id": 26,
@@ -231,7 +231,7 @@
     "curso": "INGENIERÍA ECONÓMICA",
     "creditos": 3.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.04526-INGENIERIA-ECONOMICA.pdf"
   },
   {
     "id": 27,
@@ -240,7 +240,7 @@
     "curso": "DISEÑO DE SISTEMAS",
     "creditos": 4.0,
     "requisito": "ANÁLISIS DE SISTEMAS",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.05527-DISENO-DE-SISTEMAS.pdf"
   },
   {
     "id": 28,
@@ -249,7 +249,7 @@
     "curso": "ARQUITECTURA DE COMPUTADORES",
     "creditos": 4.0,
     "requisito": "SISTEMAS DIGITALES",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.05528-ARQUITECTURA-DE-COMPUTADORES.pdf"
   },
   {
     "id": 29,
@@ -258,7 +258,7 @@
     "curso": "COMPILADORES Y TEORÍA DE LENGUAJES",
     "creditos": 4.0,
     "requisito": "ESTRUCTURA DE DATOS",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.05529-COMPILADORES-Y-TEORIA-DE-LENGUAJES.pdf"
   },
   {
     "id": 30,
@@ -267,7 +267,7 @@
     "curso": "BASE DE DATOS I",
     "creditos": 4.0,
     "requisito": "ESTRUCTURA DE DATOS",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.05530-BASE-DE-DATOS-I.pdf"
   },
   {
     "id": 31,
@@ -276,7 +276,7 @@
     "curso": "INVESTIGACIÓN OPERATIVA I",
     "creditos": 4.0,
     "requisito": "MATEMÁTICA II",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.05531-INVESTIGACION-OPERATIVA-I.pdf"
   },
   {
     "id": 32,
@@ -285,7 +285,7 @@
     "curso": "INGENIERÍA DE SOFTWARE I",
     "creditos": 4.0,
     "requisito": "DISEÑO DE SISTEMAS",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.06532-INGENIERIA-DE-SOFTWARE-I.pdf"
   },
   {
     "id": 33,
@@ -294,7 +294,7 @@
     "curso": "REDES I",
     "creditos": 4.0,
     "requisito": "SISTEMAS DIGITALES",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.06533-REDES-I.pdf"
   },
   {
     "id": 34,
@@ -303,7 +303,7 @@
     "curso": "SISTEMAS OPERATIVOS",
     "creditos": 3.0,
     "requisito": "ARQUITECTURA DE COMPUTADORES",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.06534-SISTEMAS-OPERATIVOS.pdf"
   },
   {
     "id": 35,
@@ -312,7 +312,7 @@
     "curso": "BASE DE DATOS II",
     "creditos": 4.0,
     "requisito": "BASE DE DATOS I",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.06535-BASE-DE-DATOS-II.pdf"
   },
   {
     "id": 36,
@@ -321,7 +321,7 @@
     "curso": "INVESTIGACIÓN OPERATIVA II",
     "creditos": 3.0,
     "requisito": "INVESTIGACIÓN OPERATIVA I",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.06536-INVESTIGACION-OPERATIVA-II.pdf"
   },
   {
     "id": 37,
@@ -330,7 +330,7 @@
     "curso": "LEGISLACIÓN INDUSTRIAL E INFORMÁTICA",
     "creditos": 3.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.06537-LEGISLACION-INDUSTRIAL-E-INFORMATICA.pdf"
   },
   {
     "id": 38,
@@ -339,7 +339,7 @@
     "curso": "INGENIERÍA DE SOFTWARE II",
     "creditos": 4.0,
     "requisito": "INGENIERÍA DE SOFTWARE I",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.07538-INGENIERIA-DE-SOFTWARE-II.pdf"
   },
   {
     "id": 39,
@@ -348,7 +348,7 @@
     "curso": "REDES II",
     "creditos": 4.0,
     "requisito": "REDES I",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.07539-REDES-II.pdf"
   },
   {
     "id": 40,
@@ -357,7 +357,7 @@
     "curso": "SISTEMAS DE INFORMACIÓN",
     "creditos": 3.0,
     "requisito": "INGENIERÍA DE SOFTWARE I",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.07540-SISTEMAS-DE-INFORMACION.pdf"
   },
   {
     "id": 41,
@@ -366,7 +366,7 @@
     "curso": "ANALÍTICA DE DATOS",
     "creditos": 4.0,
     "requisito": "BASE DE DATOS II",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.07541-ANALITICA-DE-DATOS.pdf"
   },
   {
     "id": 42,
@@ -375,7 +375,7 @@
     "curso": "DINÁMICA DE SISTEMAS",
     "creditos": 4.0,
     "requisito": "MATEMÁTICA II",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.07542-DINAMICA-DE-SISTEMAS.pdf"
   },
   {
     "id": 43,
@@ -384,7 +384,7 @@
     "curso": "PROYECTOS DE TECNOLOGÍAS DE LA INFORMACIÓN",
     "creditos": 3.0,
     "requisito": "DISEÑO DE SISTEMAS",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.07543-PROYECTOS-DE-TECNOLOGIAS-DE-LA-INFORMACION.pdf"
   },
   {
     "id": 44,
@@ -393,7 +393,7 @@
     "curso": "INGENIERÍA WEB Y APLICACIONES MÓVILES",
     "creditos": 4.0,
     "requisito": "INGENIERÍA DE SOFTWARE II",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.08544-INGENIERIA-WEB-Y-APLICACIONES-MOVILES.pdf"
   },
   {
     "id": 45,
@@ -402,7 +402,7 @@
     "curso": "TALLER DE EMPRENDIMIENTO E INNOVACIÓN",
     "creditos": 3.0,
     "requisito": "INGENIERÍA ECONÓMICA",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.08545-TALLER-DE-EMPRENDIMIENTO-E-INNOVACION.pdf"
   },
   {
     "id": 46,
@@ -411,7 +411,7 @@
     "curso": "SIMULACIÓN DE SISTEMAS",
     "creditos": 4.0,
     "requisito": "ESTADÍSTICA Y PROBABILIDADES",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.08546-SIMULACION-DE-SISTEMAS.pdf"
   },
   {
     "id": 47,
@@ -420,7 +420,7 @@
     "curso": "REALIDAD VIRTUAL",
     "creditos": 4.0,
     "requisito": "ALGORITMOS Y PROGRAMACIÓN PARALELA",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.08547-REALIDAD-VIRTUAL.pdf"
   },
   {
     "id": 48,
@@ -429,7 +429,7 @@
     "curso": "SEGURIDAD INFORMÁTICA",
     "creditos": 3.0,
     "requisito": "SISTEMAS DE INFORMACIÓN",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.08548-SEGURIDAD-INFORMATICA.pdf"
   },
   {
     "id": 49,
@@ -438,7 +438,7 @@
     "curso": "DISEÑO ASISTIDO POR COMPUTADOR",
     "creditos": 4.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.085E1-DISENO-ASISTIDO-POR-COMPUTADOR.pdf"
   },
   {
     "id": 50,
@@ -447,7 +447,7 @@
     "curso": "SISTEMA DE INFORMACIÓN GERENCIAL",
     "creditos": 4.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.085E2-SISTEMA-DE-INFORMACION-GERENCIAL.pdf"
   },
   {
     "id": 51,
@@ -456,7 +456,7 @@
     "curso": "GESTIÓN DE ECOEFICIENCIA EN LA EMPRESA",
     "creditos": 4.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.085E3-GESTION-DE-ECOEFICIENCIA-EN-LA-EMPRESA.pdf"
   },
   {
     "id": 53,
@@ -465,7 +465,7 @@
     "curso": "TALLER DE TESIS I",
     "creditos": 4.0,
     "requisito": "ESTADÍSTICA Y PROBABILIDADES",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.09549-TALLER-DE-TESIS-I.pdf"
   },
   {
     "id": 54,
@@ -474,7 +474,7 @@
     "curso": "INTELIGENCIA ARTIFICIAL",
     "creditos": 4.0,
     "requisito": "ANALÍTICA DE DATOS",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.09550-INTELIGENCIA-ARTIFICIAL.pdf"
   },
   {
     "id": 55,
@@ -483,7 +483,7 @@
     "curso": "GESTIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN",
     "creditos": 4.0,
     "requisito": "PROYECTOS DE TECNOLOGÍAS DE LA INFORMACIÓN",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.09551-GESTION-DE-TECNOLOGIAS-DE-LA-INFORMACION.pdf"
   },
   {
     "id": 56,
@@ -492,7 +492,7 @@
     "curso": "SISTEMAS EXPERTOS",
     "creditos": 4.0,
     "requisito": "INVESTIGACIÓN OPERATIVA II",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.09552-SISTEMAS-EXPERTOS.pdf"
   },
   {
     "id": 57,
@@ -501,7 +501,7 @@
     "curso": "MÉTODOS CUANTITATIVOS PARA INVESTIGACIÓN",
     "creditos": 3.0,
     "requisito": "ESTADÍSTICA Y PROBABILIDADES",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.09553-METODOS-CUANTITATIVOS-PARA-INVESTIGACION.pdf"
   },
   {
     "id": 58,
@@ -510,7 +510,7 @@
     "curso": "COMPUTACIÓN EN LA NUBE",
     "creditos": 4.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.095E4-COMPUTACION-EN-LA-NUBE.pdf"
   },
   {
     "id": 59,
@@ -519,7 +519,7 @@
     "curso": "TECNOLOGÍAS EMERGENTES",
     "creditos": 4.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.095E5-TECNOLOGIAS-EMERGENTES.pdf"
   },
   {
     "id": 60,
@@ -528,7 +528,7 @@
     "curso": "WEB SEMÁNTICA",
     "creditos": 4.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.095E6-WEB-SEMANTICA.pdf"
   },
   {
     "id": 62,
@@ -537,7 +537,7 @@
     "curso": "TALLER DE TESIS II",
     "creditos": 4.0,
     "requisito": "TALLER DE TESIS I",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.10554-TALLER-DE-TESIS-II.pdf"
   },
   {
     "id": 63,
@@ -546,7 +546,7 @@
     "curso": "PRÁCTICAS PRE PROFESIONALES",
     "creditos": 2.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.10555-PRACTICAS-PRE-PROFESIONALES.pdf"
   },
   {
     "id": 64,
@@ -555,7 +555,7 @@
     "curso": "ROBÓTICA",
     "creditos": 4.0,
     "requisito": "INTELIGENCIA ARTIFICIAL",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.10556-ROBOTICA.pdf"
   },
   {
     "id": 65,
@@ -564,7 +564,7 @@
     "curso": "AUDITORÍA DE SISTEMAS",
     "creditos": 4.0,
     "requisito": "SEGURIDAD INFORMÁTICA",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.10557-AUDITORIA-DE-SISTEMAS.pdf"
   },
   {
     "id": 66,
@@ -573,7 +573,7 @@
     "curso": "PROCESAMIENTO DE IMÁGENES",
     "creditos": 4.0,
     "requisito": "INTELIGENCIA ARTIFICIAL",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.10558-PROCESAMIENTO-DE-IMAGENES.pdf"
   },
   {
     "id": 67,
@@ -582,7 +582,7 @@
     "curso": "TRABAJO DE INVESTIGACIÓN",
     "creditos": 2.0,
     "requisito": "TALLER DE TESIS I",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.10559-TRABAJO-DE-INVESTIGACION.pdf"
   },
   {
     "id": 68,
@@ -591,7 +591,7 @@
     "curso": "MINERÍA DE DATOS",
     "creditos": 4.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.105E7-MINERIA-DE-DATOS.pdf"
   },
   {
     "id": 69,
@@ -600,7 +600,7 @@
     "curso": "REDES DE COMUNICACIÓN AVANZADAS",
     "creditos": 4.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.105E8-REDES-DE-COMUNICACION-AVANZADAS.pdf"
   },
   {
     "id": 70,
@@ -609,6 +609,6 @@
     "curso": "CRIPTOGRAFÍA",
     "creditos": 4.0,
     "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
+    "url_pdf": "https://raw.githubusercontent.com/ilsonmangas/silabos-esis/main/pdfs/19.105E9-CRIPTOGRAFIA.pdf"
   }
 ]
