@@ -459,15 +459,6 @@
     "url_pdf": "AQUI_VA_TU_LINK"
   },
   {
-    "id": 52,
-    "ciclo": "VIII",
-    "codigo": "19.085ELC01",
-    "curso": "ELECTIVO I",
-    "creditos": 4.0,
-    "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
-  },
-  {
     "id": 53,
     "ciclo": "IX",
     "codigo": "19.09549",
@@ -535,15 +526,6 @@
     "ciclo": "IX",
     "codigo": "19.095E6",
     "curso": "WEB SEMÁNTICA",
-    "creditos": 4.0,
-    "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
-  },
-  {
-    "id": 61,
-    "ciclo": "IX",
-    "codigo": "19.095ELC02",
-    "curso": "ELECTIVO II",
     "creditos": 4.0,
     "requisito": "Ninguno",
     "url_pdf": "AQUI_VA_TU_LINK"
@@ -625,15 +607,6 @@
     "ciclo": "X",
     "codigo": "19.105E9",
     "curso": "CRIPTOGRAFÍA",
-    "creditos": 4.0,
-    "requisito": "Ninguno",
-    "url_pdf": "AQUI_VA_TU_LINK"
-  },
-  {
-    "id": 71,
-    "ciclo": "X",
-    "codigo": "19.105ELC03",
-    "curso": "ELECTIVO III",
     "creditos": 4.0,
     "requisito": "Ninguno",
     "url_pdf": "AQUI_VA_TU_LINK"
