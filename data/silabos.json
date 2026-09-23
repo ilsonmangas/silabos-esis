@@ -1,0 +1,641 @@
+[
+  {
+    "id": 1,
+    "ciclo": "I",
+    "codigo": "19.01501",
+    "curso": "MATEMÁTICA BÁSICA",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 2,
+    "ciclo": "I",
+    "codigo": "19.01502",
+    "curso": "COMUNICACIÓN Y REDACCIÓN",
+    "creditos": 3.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 3,
+    "ciclo": "I",
+    "codigo": "19.01503",
+    "curso": "INTRODUCCIÓN A LAS HERRAMIENTAS DIGITALES",
+    "creditos": 3.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 4,
+    "ciclo": "I",
+    "codigo": "19.01504",
+    "curso": "QUÍMICA",
+    "creditos": 3.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 5,
+    "ciclo": "I",
+    "codigo": "19.01505",
+    "curso": "EDUCACIÓN INCLUSIVA",
+    "creditos": 2.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 6,
+    "ciclo": "I",
+    "codigo": "19.01506",
+    "curso": "FUNDAMENTOS DE PROGRAMACIÓN",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 7,
+    "ciclo": "I",
+    "codigo": "19.01507",
+    "curso": "PROGRAMACIÓN GRÁFICA",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 8,
+    "ciclo": "II",
+    "codigo": "19.02508",
+    "curso": "ECOLOGÍA Y AMBIENTE",
+    "creditos": 3.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 9,
+    "ciclo": "II",
+    "codigo": "19.02509",
+    "curso": "REALIDAD NACIONAL",
+    "creditos": 3.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 10,
+    "ciclo": "II",
+    "codigo": "19.02510",
+    "curso": "INTRODUCCIÓN A LA FILOSOFÍA",
+    "creditos": 3.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 11,
+    "ciclo": "II",
+    "codigo": "19.02511",
+    "curso": "FÍSICA",
+    "creditos": 3.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 12,
+    "ciclo": "II",
+    "codigo": "19.02512",
+    "curso": "METODOLOGÍA DEL TRABAJO UNIVERSITARIO",
+    "creditos": 3.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 13,
+    "ciclo": "II",
+    "codigo": "19.02513",
+    "curso": "MATEMÁTICA DISCRETA",
+    "creditos": 4.0,
+    "requisito": "MATEMÁTICA BÁSICA",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 14,
+    "ciclo": "II",
+    "codigo": "19.02514",
+    "curso": "PROGRAMACIÓN AVANZADA",
+    "creditos": 4.0,
+    "requisito": "FUNDAMENTOS DE PROGRAMACIÓN",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 15,
+    "ciclo": "III",
+    "codigo": "19.03515",
+    "curso": "TEORÍA GENERAL DE SISTEMAS",
+    "creditos": 2.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 16,
+    "ciclo": "III",
+    "codigo": "19.03516",
+    "curso": "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS",
+    "creditos": 4.0,
+    "requisito": "FÍSICA",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 17,
+    "ciclo": "III",
+    "codigo": "19.03517",
+    "curso": "ESTRUCTURA DE DATOS",
+    "creditos": 4.0,
+    "requisito": "PROGRAMACIÓN AVANZADA",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 18,
+    "ciclo": "III",
+    "codigo": "19.03518",
+    "curso": "ALGORITMOS Y PROGRAMACIÓN PARALELA",
+    "creditos": 4.0,
+    "requisito": "PROGRAMACIÓN AVANZADA",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 19,
+    "ciclo": "III",
+    "codigo": "19.03519",
+    "curso": "MATEMÁTICA I",
+    "creditos": 4.0,
+    "requisito": "MATEMÁTICA BÁSICA",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 20,
+    "ciclo": "III",
+    "codigo": "19.03520",
+    "curso": "ESTADÍSTICA Y PROBABILIDADES",
+    "creditos": 4.0,
+    "requisito": "MATEMÁTICA BÁSICA",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 21,
+    "ciclo": "IV",
+    "codigo": "19.04521",
+    "curso": "ANÁLISIS DE SISTEMAS",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 22,
+    "ciclo": "IV",
+    "codigo": "19.04522",
+    "curso": "SISTEMAS DIGITALES",
+    "creditos": 4.0,
+    "requisito": "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 23,
+    "ciclo": "IV",
+    "codigo": "19.04523",
+    "curso": "MODELADO COMPUTACIONAL PARA INGENIERÍA",
+    "creditos": 4.0,
+    "requisito": "MATEMÁTICA DISCRETA",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 24,
+    "ciclo": "IV",
+    "codigo": "19.04524",
+    "curso": "CONTABILIDAD, COSTOS Y PRESUPUESTOS",
+    "creditos": 3.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 25,
+    "ciclo": "IV",
+    "codigo": "19.04525",
+    "curso": "MATEMÁTICA II",
+    "creditos": 4.0,
+    "requisito": "MATEMÁTICA I",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 26,
+    "ciclo": "IV",
+    "codigo": "19.04526",
+    "curso": "INGENIERÍA ECONÓMICA",
+    "creditos": 3.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 27,
+    "ciclo": "V",
+    "codigo": "19.05527",
+    "curso": "DISEÑO DE SISTEMAS",
+    "creditos": 4.0,
+    "requisito": "ANÁLISIS DE SISTEMAS",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 28,
+    "ciclo": "V",
+    "codigo": "19.05528",
+    "curso": "ARQUITECTURA DE COMPUTADORES",
+    "creditos": 4.0,
+    "requisito": "SISTEMAS DIGITALES",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 29,
+    "ciclo": "V",
+    "codigo": "19.05529",
+    "curso": "COMPILADORES Y TEORÍA DE LENGUAJES",
+    "creditos": 4.0,
+    "requisito": "ESTRUCTURA DE DATOS",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 30,
+    "ciclo": "V",
+    "codigo": "19.05530",
+    "curso": "BASE DE DATOS I",
+    "creditos": 4.0,
+    "requisito": "ESTRUCTURA DE DATOS",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 31,
+    "ciclo": "V",
+    "codigo": "19.05531",
+    "curso": "INVESTIGACIÓN OPERATIVA I",
+    "creditos": 4.0,
+    "requisito": "MATEMÁTICA II",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 32,
+    "ciclo": "VI",
+    "codigo": "19.06532",
+    "curso": "INGENIERÍA DE SOFTWARE I",
+    "creditos": 4.0,
+    "requisito": "DISEÑO DE SISTEMAS",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 33,
+    "ciclo": "VI",
+    "codigo": "19.06533",
+    "curso": "REDES I",
+    "creditos": 4.0,
+    "requisito": "SISTEMAS DIGITALES",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 34,
+    "ciclo": "VI",
+    "codigo": "19.06534",
+    "curso": "SISTEMAS OPERATIVOS",
+    "creditos": 3.0,
+    "requisito": "ARQUITECTURA DE COMPUTADORES",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 35,
+    "ciclo": "VI",
+    "codigo": "19.06535",
+    "curso": "BASE DE DATOS II",
+    "creditos": 4.0,
+    "requisito": "BASE DE DATOS I",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 36,
+    "ciclo": "VI",
+    "codigo": "19.06536",
+    "curso": "INVESTIGACIÓN OPERATIVA II",
+    "creditos": 3.0,
+    "requisito": "INVESTIGACIÓN OPERATIVA I",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 37,
+    "ciclo": "VI",
+    "codigo": "19.06537",
+    "curso": "LEGISLACIÓN INDUSTRIAL E INFORMÁTICA",
+    "creditos": 3.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 38,
+    "ciclo": "VII",
+    "codigo": "19.07538",
+    "curso": "INGENIERÍA DE SOFTWARE II",
+    "creditos": 4.0,
+    "requisito": "INGENIERÍA DE SOFTWARE I",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 39,
+    "ciclo": "VII",
+    "codigo": "19.07539",
+    "curso": "REDES II",
+    "creditos": 4.0,
+    "requisito": "REDES I",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 40,
+    "ciclo": "VII",
+    "codigo": "19.07540",
+    "curso": "SISTEMAS DE INFORMACIÓN",
+    "creditos": 3.0,
+    "requisito": "INGENIERÍA DE SOFTWARE I",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 41,
+    "ciclo": "VII",
+    "codigo": "19.07541",
+    "curso": "ANALÍTICA DE DATOS",
+    "creditos": 4.0,
+    "requisito": "BASE DE DATOS II",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 42,
+    "ciclo": "VII",
+    "codigo": "19.07542",
+    "curso": "DINÁMICA DE SISTEMAS",
+    "creditos": 4.0,
+    "requisito": "MATEMÁTICA II",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 43,
+    "ciclo": "VII",
+    "codigo": "19.07543",
+    "curso": "PROYECTOS DE TECNOLOGÍAS DE LA INFORMACIÓN",
+    "creditos": 3.0,
+    "requisito": "DISEÑO DE SISTEMAS",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 44,
+    "ciclo": "VIII",
+    "codigo": "19.08544",
+    "curso": "INGENIERÍA WEB Y APLICACIONES MÓVILES",
+    "creditos": 4.0,
+    "requisito": "INGENIERÍA DE SOFTWARE II",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 45,
+    "ciclo": "VIII",
+    "codigo": "19.08545",
+    "curso": "TALLER DE EMPRENDIMIENTO E INNOVACIÓN",
+    "creditos": 3.0,
+    "requisito": "INGENIERÍA ECONÓMICA",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 46,
+    "ciclo": "VIII",
+    "codigo": "19.08546",
+    "curso": "SIMULACIÓN DE SISTEMAS",
+    "creditos": 4.0,
+    "requisito": "ESTADÍSTICA Y PROBABILIDADES",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 47,
+    "ciclo": "VIII",
+    "codigo": "19.08547",
+    "curso": "REALIDAD VIRTUAL",
+    "creditos": 4.0,
+    "requisito": "ALGORITMOS Y PROGRAMACIÓN PARALELA",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 48,
+    "ciclo": "VIII",
+    "codigo": "19.08548",
+    "curso": "SEGURIDAD INFORMÁTICA",
+    "creditos": 3.0,
+    "requisito": "SISTEMAS DE INFORMACIÓN",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 49,
+    "ciclo": "VIII",
+    "codigo": "19.085E1",
+    "curso": "DISEÑO ASISTIDO POR COMPUTADOR",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 50,
+    "ciclo": "VIII",
+    "codigo": "19.085E2",
+    "curso": "SISTEMA DE INFORMACIÓN GERENCIAL",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 51,
+    "ciclo": "VIII",
+    "codigo": "19.085E3",
+    "curso": "GESTIÓN DE ECOEFICIENCIA EN LA EMPRESA",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 52,
+    "ciclo": "VIII",
+    "codigo": "19.085ELC01",
+    "curso": "ELECTIVO I",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 53,
+    "ciclo": "IX",
+    "codigo": "19.09549",
+    "curso": "TALLER DE TESIS I",
+    "creditos": 4.0,
+    "requisito": "ESTADÍSTICA Y PROBABILIDADES",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 54,
+    "ciclo": "IX",
+    "codigo": "19.09550",
+    "curso": "INTELIGENCIA ARTIFICIAL",
+    "creditos": 4.0,
+    "requisito": "ANALÍTICA DE DATOS",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 55,
+    "ciclo": "IX",
+    "codigo": "19.09551",
+    "curso": "GESTIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN",
+    "creditos": 4.0,
+    "requisito": "PROYECTOS DE TECNOLOGÍAS DE LA INFORMACIÓN",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 56,
+    "ciclo": "IX",
+    "codigo": "19.09552",
+    "curso": "SISTEMAS EXPERTOS",
+    "creditos": 4.0,
+    "requisito": "INVESTIGACIÓN OPERATIVA II",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 57,
+    "ciclo": "IX",
+    "codigo": "19.09553",
+    "curso": "MÉTODOS CUANTITATIVOS PARA INVESTIGACIÓN",
+    "creditos": 3.0,
+    "requisito": "ESTADÍSTICA Y PROBABILIDADES",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 58,
+    "ciclo": "IX",
+    "codigo": "19.095E4",
+    "curso": "COMPUTACIÓN EN LA NUBE",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 59,
+    "ciclo": "IX",
+    "codigo": "19.095E5",
+    "curso": "TECNOLOGÍAS EMERGENTES",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 60,
+    "ciclo": "IX",
+    "codigo": "19.095E6",
+    "curso": "WEB SEMÁNTICA",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 61,
+    "ciclo": "IX",
+    "codigo": "19.095ELC02",
+    "curso": "ELECTIVO II",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 62,
+    "ciclo": "X",
+    "codigo": "19.10554",
+    "curso": "TALLER DE TESIS II",
+    "creditos": 4.0,
+    "requisito": "TALLER DE TESIS I",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 63,
+    "ciclo": "X",
+    "codigo": "19.10555",
+    "curso": "PRÁCTICAS PRE PROFESIONALES",
+    "creditos": 2.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 64,
+    "ciclo": "X",
+    "codigo": "19.10556",
+    "curso": "ROBÓTICA",
+    "creditos": 4.0,
+    "requisito": "INTELIGENCIA ARTIFICIAL",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 65,
+    "ciclo": "X",
+    "codigo": "19.10557",
+    "curso": "AUDITORÍA DE SISTEMAS",
+    "creditos": 4.0,
+    "requisito": "SEGURIDAD INFORMÁTICA",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 66,
+    "ciclo": "X",
+    "codigo": "19.10558",
+    "curso": "PROCESAMIENTO DE IMÁGENES",
+    "creditos": 4.0,
+    "requisito": "INTELIGENCIA ARTIFICIAL",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 67,
+    "ciclo": "X",
+    "codigo": "19.10559",
+    "curso": "TRABAJO DE INVESTIGACIÓN",
+    "creditos": 2.0,
+    "requisito": "TALLER DE TESIS I",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 68,
+    "ciclo": "X",
+    "codigo": "19.105E7",
+    "curso": "MINERÍA DE DATOS",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 69,
+    "ciclo": "X",
+    "codigo": "19.105E8",
+    "curso": "REDES DE COMUNICACIÓN AVANZADAS",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 70,
+    "ciclo": "X",
+    "codigo": "19.105E9",
+    "curso": "CRIPTOGRAFÍA",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  },
+  {
+    "id": 71,
+    "ciclo": "X",
+    "codigo": "19.105ELC03",
+    "curso": "ELECTIVO III",
+    "creditos": 4.0,
+    "requisito": "Ninguno",
+    "url_pdf": "AQUI_VA_TU_LINK"
+  }
+]
